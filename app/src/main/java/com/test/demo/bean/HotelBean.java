@@ -9,7 +9,7 @@ import com.test.demo.constants.Status;
 import com.test.demo.util.DateUtil;
 
 /**
- * Created by gehengmin on 2017/8/29.
+ * Created by caicai on 2017/8/29.
  */
 
 public class HotelBean extends BaseBean {

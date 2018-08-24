@@ -7,7 +7,7 @@ import android.support.v4.content.ContextCompat;
 import android.text.TextUtils;
 
 /**
- * Created by gehengmin on 2017/8/31.
+ * Created by caicai on 2017/8/31.
  */
 
 public class Utils {

@@ -10,7 +10,7 @@ import com.test.demo.constants.Constants;
 import com.test.demo.services.DecisionService;
 
 /**
- * Created by gehengmin on 2017/8/21.
+ * Created by caicai on 2017/8/21.
  */
 
 public class InitReceiver extends BroadcastReceiver {

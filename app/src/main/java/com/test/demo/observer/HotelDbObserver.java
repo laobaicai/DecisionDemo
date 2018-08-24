@@ -12,7 +12,7 @@ import com.test.demo.task.DataHandler;
 import com.test.demo.util.Utils;
 
 /**
- * Created by gehengmin on 2017/8/31.
+ * Created by caicai on 2017/8/31.
  */
 
 public class HotelDbObserver extends ContentObserver {

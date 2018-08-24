@@ -5,7 +5,7 @@ import android.net.Uri;
 import com.test.demo.provider.DataProvider;
 
 /**
- * Created by gehengmin on 2017/8/22.
+ * Created by caicai on 2017/8/22.
  */
 
 public class HotelColumns implements BaseColumns {

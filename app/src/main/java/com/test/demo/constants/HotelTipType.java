@@ -1,7 +1,7 @@
 package com.test.demo.constants;
 
 /**
- * Created by gehengmin on 2017/9/6.
+ * Created by caicai on 2017/9/6.
  */
 
 public enum HotelTipType {

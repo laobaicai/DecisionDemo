@@ -16,7 +16,7 @@ import com.test.demo.constants.HotelColumns;
 import com.test.demo.util.DateUtil;
 
 /**
- * Created by gehengmin on 2017/8/22.
+ * Created by caicai on 2017/8/22.
  */
 
 public class DataProvider extends ContentProvider {

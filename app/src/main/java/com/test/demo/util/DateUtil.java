@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by gehengmin on 2017/9/4.
+ * Created by caicai on 2017/9/4.
  */
 
 public class DateUtil {

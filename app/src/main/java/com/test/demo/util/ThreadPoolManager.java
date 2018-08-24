@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 /**
- * Created by gehengmin on 2017/8/18.
+ * Created by caicai on 2017/8/18.
  */
 
 public class ThreadPoolManager {

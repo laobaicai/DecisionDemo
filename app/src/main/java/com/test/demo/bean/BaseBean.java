@@ -5,7 +5,7 @@ import android.database.Cursor;
 import com.test.demo.constants.BaseColumns;
 
 /**
- * Created by gehengmin on 2017/8/29.
+ * Created by caicai on 2017/8/29.
  */
 
 public class BaseBean {

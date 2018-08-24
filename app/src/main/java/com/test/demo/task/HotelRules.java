@@ -6,7 +6,7 @@ import com.test.demo.bean.HotelBean;
 import com.test.demo.util.DateUtil;
 
 /**
- * Created by gehengmin on 2017/9/4.
+ * Created by caicai on 2017/9/4.
  */
 
 public class HotelRules {
