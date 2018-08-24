@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotel_name">
+        <item>桔子水晶酒店(南京夫子庙店)</item>
+        <item>汉庭酒店(南京软件大道店)</item>
+        <item>南京安朴酒店</item>
+        <item>锦江之星酒店</item>
+    </string-array>
+    <string-array name="address">
+        <item>升州路23号(升州路与中华路交叉口西侧)</item>
+        <item>雨花台区郁金香路19号</item>
+        <item>南京雨花台区安德门大街57号楚翘城2号楼</item>
+        <item>南京江宁区经济开发区胜太西路162号</item>
+    </string-array>
+    <string-array name="room_type">
+        <item>豪华房</item>
+        <item>单人间</item>
+        <item>标准间</item>
+        <item>大床房</item>
+    </string-array>
+</resources>

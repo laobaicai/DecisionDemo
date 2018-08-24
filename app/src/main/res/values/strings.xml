@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DecisionDemo</string>
+    <string name="hotel_name">酒店名</string>
+    <string name="hotel_address">酒店地址</string>
+    <string name="hotel_city">酒店城市</string>
+    <string name="check_in_time">入住时间</string>
+    <string name="check_out_time">离店时间</string>
+    <string name="room_type">房间类型</string>
+    <string name="room_price">价格</string>
+    <string name="insert">insert</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="query_valid">query valid</string>
+    <string name="query_all">query all</string>
+    <string name="select_date">点击选择日期</string>
+    <string name="check_in_tip_title">入住提醒</string>
+    <string name="check_in_tip_content">您预订的%s可以办理入住了</string>
+    <string name="check_out_tip_title">离店提醒</string>
+    <string name="check_out_tip_content">您入住的%s请及时办理离店手续</string>
+    <string name="tip_type">提醒类型</string>
+
+    // for test
+    <string name="hotel_name_demo">桔子水晶酒店</string>
+    <string name="hotel_address_demo">升州路23号(升州路与中华路交叉口西侧)</string>
+    <string name="hotel_city_demo">南京</string>
+    <string name="check_in_time_demo">2017-08-26</string>
+    <string name="check_out_time_demo">2017-08-30</string>
+    <string name="room_type_demo">豪华房</string>
+    <string name="room_price_demo">299</string>
+    <string name="id_demo">1</string>
+    <string name="tip_type_demo">-1</string>
+</resources>
